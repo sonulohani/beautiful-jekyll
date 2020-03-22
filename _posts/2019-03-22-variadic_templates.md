@@ -1,6 +1,6 @@
 ---
 layout: post
-title: std::variant
+title: Variadic templates
 ---
 
 Variadic templates are templates that take variable number of arguments. Variadic templates are supported since C++ 11. Prior to C++11, templates could only take a fixed number of arguments. C++11 allows template definitions to take an arbitrary number of arguments of any type. 
