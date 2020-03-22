@@ -4,7 +4,7 @@
 title: Modern C++ Blog
 
 # Short description of your site
-description: This blog mainly emphases on the modern features of c++. Since its creation, C++ has become one of the most widely used programming languages in the world. Well-written C++ programs are fast and efficient. The language is more flexible than other languages- It can work at the highest levels of abstraction, and down at the level of the silicon.
+description: This blog mainly emphases on the modern features of c++.
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
